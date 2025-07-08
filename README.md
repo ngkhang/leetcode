@@ -23,6 +23,8 @@
 
 | Problem                                                                                                        | Difficulty | JS                                                           | TS                                                           |
 | -------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [0035 - Search Insert Position](https://leetcode.com/problems/search-insert-position/)                         | ⭐          | [✅](./javascript/0035-search-insert-position.js)             | [✅](./typescript/0035-search-insert-position.ts)             |
+| [0136 - Single Number](https://leetcode.com/problems/single-number/)                                           | ⭐          | [✅](./javascript/0136-single-number.js)                      | [✅](./typescript/0136-single-number.ts)                      |
 
 [⬆️ Scroll top](#leetcode)
 
