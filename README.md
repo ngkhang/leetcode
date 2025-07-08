@@ -25,6 +25,8 @@
 | -------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [0035 - Search Insert Position](https://leetcode.com/problems/search-insert-position/)                         | ⭐          | [✅](./javascript/0035-search-insert-position.js)             | [✅](./typescript/0035-search-insert-position.ts)             |
 | [0136 - Single Number](https://leetcode.com/problems/single-number/)                                           | ⭐          | [✅](./javascript/0136-single-number.js)                      | [✅](./typescript/0136-single-number.ts)                      |
+| [0217 - Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                 | ⭐          | [✅](./javascript/0217-contains-duplicate.js)                 | [✅](./typescript/0217-contains-duplicate.ts)                 |
+| [0219 - Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)                           | ⭐          | [✅](./javascript/0219-contains-duplicate-ii.js)              | [✅](./typescript/0219-contains-duplicate-ii.ts)              |
 
 [⬆️ Scroll top](#leetcode)
 
