@@ -13,11 +13,18 @@
 - [Leetcode](#leetcode)
   - [Table of Contents](#table-of-contents)
   - [Solutions](#solutions)
+    - [Database](#database)
   - [References](#references)
 
 ---
 
 ## Solutions
+
+### Database
+
+| Problems                                                                 | Difficulty | Solutions                                          |
+| ------------------------------------------------------------------------ | ---------- | -------------------------------------------------- |
+| [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | ⭐          | [📝](./solutions/database/182-duplicate-emails.sql) |
 
 ---
 
