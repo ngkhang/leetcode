@@ -26,6 +26,7 @@
 | -------------------------------------------------------------------------- | ---------- | --------------------------------------------------- |
 | [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)   | ⭐          | [📝](./solutions/database/182-duplicate-emails.sql)  |
 | [620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | ⭐          | [📝](./solutions/database/620-not-boring-movies.sql) |
+| [627. Swap Salary](https://leetcode.com/problems/swap-salary/)             | ⭐          | [📝](./solutions/database/627-swap-salary.sql)       |
 
 ---
 
