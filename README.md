@@ -28,6 +28,7 @@
 | [620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)                                            | ⭐          | [📝](./solutions/database/620-not-boring-movies.sql)                       |
 | [627. Swap Salary](https://leetcode.com/problems/swap-salary/)                                                        | ⭐          | [📝](./solutions/database/627-swap-salary.sql)                             |
 | [1741. Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | ⭐          | [📝](./solutions/database/1741-find-total-time-spent-by-each-employee.sql) |
+| [3436. Find Valid Emails](https://leetcode.com/problems/find-valid-emails/)                                           | ⭐          | [📝](./solutions/database/3436-find-valid-emails.sql)                      |
 
 ---
 
