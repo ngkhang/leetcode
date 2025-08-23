@@ -34,6 +34,7 @@
 | Problems                                                                                                              | Difficulty | Solutions                                                                 |
 | --------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------- |
 | [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)                                              | ⭐          | [📝](./solutions/database/182-duplicate-emails.sql)                        |
+| [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)                                    | ⭐          | [📝](./solutions/database/584-find-customer-referee.sql)                   |
 | [595. Big Countries](https://leetcode.com/problems/big-countries/)                                                    | ⭐          | [📝](./solutions/database/595-big-countries.sql)                           |
 | [620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)                                            | ⭐          | [📝](./solutions/database/620-not-boring-movies.sql)                       |
 | [627. Swap Salary](https://leetcode.com/problems/swap-salary/)                                                        | ⭐          | [📝](./solutions/database/627-swap-salary.sql)                             |
