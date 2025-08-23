@@ -13,12 +13,19 @@
 - [Leetcode](#leetcode)
   - [Table of Contents](#table-of-contents)
   - [Solutions](#solutions)
+    - [JavaScript and TypeScript](#javascript-and-typescript)
     - [Database](#database)
   - [References](#references)
 
 ---
 
 ## Solutions
+
+### JavaScript and TypeScript
+
+| Problems                                                           | Difficulty | Solutions                                                                                             |
+| ------------------------------------------------------------------ | ---------- | ----------------------------------------------------------------------------------------------------- |
+| [136. Single Number](https://leetcode.com/problems/single-number/) | ⭐          | [JS](./solutions/javascript/136-single-number.js) - [TS](./solutions/typescript/136-single-number.ts) |
 
 ### Database
 
