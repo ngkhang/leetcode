@@ -23,10 +23,11 @@
 
 ### JavaScript and TypeScript
 
-| Problems                                                                 | Difficulty | Solutions                                                                                                   |
-| ------------------------------------------------------------------------ | ---------- | ----------------------------------------------------------------------------------------------------------- |
-| [136. Single Number](https://leetcode.com/problems/single-number/)       | ⭐          | [JS](./solutions/javascript/136-single-number.js) - [TS](./solutions/typescript/136-single-number.ts)       |
-| [137. Single Number II](https://leetcode.com/problems/single-number-ii/) | ⭐⭐         | [JS](./solutions/javascript/137-single-number-ii.js) - [TS](./solutions/typescript/137-single-number-ii.ts) |
+| Problems                                                                   | Difficulty | Solutions                                                                                                     |
+| -------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------- |
+| [136. Single Number](https://leetcode.com/problems/single-number/)         | ⭐          | [JS](./solutions/javascript/136-single-number.js) - [TS](./solutions/typescript/136-single-number.ts)         |
+| [137. Single Number II](https://leetcode.com/problems/single-number-ii/)   | ⭐⭐         | [JS](./solutions/javascript/137-single-number-ii.js) - [TS](./solutions/typescript/137-single-number-ii.ts)   |
+| [260. Single Number III](https://leetcode.com/problems/single-number-iii/) | ⭐⭐         | [JS](./solutions/javascript/260-single-number-iii.js) - [TS](./solutions/typescript/260-single-number-iii.ts) |
 
 ### Database
 
