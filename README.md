@@ -35,6 +35,7 @@
 | ---------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------------------------------------------------------------------------- |
 | [181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | ⭐          | [📝](./solutions/database/181-employees-earning-more-than-their-managers.sql) |
 | [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)                                                     | ⭐          | [📝](./solutions/database/182-duplicate-emails.sql)                           |
+| [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/)                                                 | ⭐          | [📝](./solutions/database/197-rising-temperature.sql)                         |
 | [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)                                           | ⭐          | [📝](./solutions/database/584-find-customer-referee.sql)                      |
 | [595. Big Countries](https://leetcode.com/problems/big-countries/)                                                           | ⭐          | [📝](./solutions/database/595-big-countries.sql)                              |
 | [596. Classes More Than 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/)                         | ⭐          | [📝](./solutions/database/596-classes-with-at-least-5-students.sql)           |
