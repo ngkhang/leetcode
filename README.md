@@ -31,15 +31,16 @@
 
 ### Database
 
-| Problems                                                                                                              | Difficulty | Solutions                                                                 |
-| --------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------- |
-| [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)                                              | ⭐          | [📝](./solutions/database/182-duplicate-emails.sql)                        |
-| [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)                                    | ⭐          | [📝](./solutions/database/584-find-customer-referee.sql)                   |
-| [595. Big Countries](https://leetcode.com/problems/big-countries/)                                                    | ⭐          | [📝](./solutions/database/595-big-countries.sql)                           |
-| [620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)                                            | ⭐          | [📝](./solutions/database/620-not-boring-movies.sql)                       |
-| [627. Swap Salary](https://leetcode.com/problems/swap-salary/)                                                        | ⭐          | [📝](./solutions/database/627-swap-salary.sql)                             |
-| [1741. Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | ⭐          | [📝](./solutions/database/1741-find-total-time-spent-by-each-employee.sql) |
-| [3436. Find Valid Emails](https://leetcode.com/problems/find-valid-emails/)                                           | ⭐          | [📝](./solutions/database/3436-find-valid-emails.sql)                      |
+| Problems                                                                                                                     | Difficulty | Solutions                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------------------------------------------------------------------------- |
+| [181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | ⭐          | [📝](./solutions/database/181-employees-earning-more-than-their-managers.sql) |
+| [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)                                                     | ⭐          | [📝](./solutions/database/182-duplicate-emails.sql)                           |
+| [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)                                           | ⭐          | [📝](./solutions/database/584-find-customer-referee.sql)                      |
+| [595. Big Countries](https://leetcode.com/problems/big-countries/)                                                           | ⭐          | [📝](./solutions/database/595-big-countries.sql)                              |
+| [620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)                                                   | ⭐          | [📝](./solutions/database/620-not-boring-movies.sql)                          |
+| [627. Swap Salary](https://leetcode.com/problems/swap-salary/)                                                               | ⭐          | [📝](./solutions/database/627-swap-salary.sql)                                |
+| [1741. Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/)        | ⭐          | [📝](./solutions/database/1741-find-total-time-spent-by-each-employee.sql)    |
+| [3436. Find Valid Emails](https://leetcode.com/problems/find-valid-emails/)                                                  | ⭐          | [📝](./solutions/database/3436-find-valid-emails.sql)                         |
 
 ---
 
