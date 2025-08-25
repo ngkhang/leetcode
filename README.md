@@ -42,6 +42,7 @@
 | [596. Classes More Than 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/)                               | ⭐          | [📝](./solutions/database/596-classes-with-at-least-5-students.sql)              |
 | [620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)                                                         | ⭐          | [📝](./solutions/database/620-not-boring-movies.sql)                             |
 | [627. Swap Salary](https://leetcode.com/problems/swap-salary/)                                                                     | ⭐          | [📝](./solutions/database/627-swap-salary.sql)                                   |
+| [1148. Article Views I](https://leetcode.com/problems/article-views-i/)                                                            | ⭐          | [📝](./solutions/database/1148-article-views-i.sql)                              |
 | [1741. Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/)              | ⭐          | [📝](./solutions/database/1741-find-total-time-spent-by-each-employee.sql)       |
 | [3436. Find Valid Emails](https://leetcode.com/problems/find-valid-emails/)                                                        | ⭐          | [📝](./solutions/database/3436-find-valid-emails.sql)                            |
 
