@@ -46,6 +46,7 @@
 | [1148. Article Views I](https://leetcode.com/problems/article-views-i/)                                                            | ⭐          | [📝](./solutions/database/1148-article-views-i.sql)                              |
 | [1683. Invalid Tweets](https://leetcode.com/problems/invalid-tweets/)                                                              | ⭐          | [📝](./solutions/database/1683-invalid-tweets.sql)                               |
 | [1741. Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/)              | ⭐          | [📝](./solutions/database/1741-find-total-time-spent-by-each-employee.sql)       |
+| [1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)                            | ⭐          | [📝](./solutions/database/1757-recyclable-and-low-fat-products.sql)              |
 | [3436. Find Valid Emails](https://leetcode.com/problems/find-valid-emails/)                                                        | ⭐          | [📝](./solutions/database/3436-find-valid-emails.sql)                            |
 
 ---
