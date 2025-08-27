@@ -44,6 +44,7 @@
 | [627. Swap Salary](https://leetcode.com/problems/swap-salary/)                                                                     | ⭐          | [📝](./solutions/database/627-swap-salary.sql)                                   |
 | [1068. Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/)                                          | ⭐          | [📝](./solutions/database/1068-product-sales-analysis-i.sql)                     |
 | [1148. Article Views I](https://leetcode.com/problems/article-views-i/)                                                            | ⭐          | [📝](./solutions/database/1148-article-views-i.sql)                              |
+| [1683. Invalid Tweets](https://leetcode.com/problems/invalid-tweets/)                                                              | ⭐          | [📝](./solutions/database/1683-invalid-tweets.sql)                               |
 | [1741. Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/)              | ⭐          | [📝](./solutions/database/1741-find-total-time-spent-by-each-employee.sql)       |
 | [3436. Find Valid Emails](https://leetcode.com/problems/find-valid-emails/)                                                        | ⭐          | [📝](./solutions/database/3436-find-valid-emails.sql)                            |
 
