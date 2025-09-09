@@ -30,6 +30,7 @@
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                    | ⭐          | [JS](./solutions/javascript/217-contains-duplicate.js) - [TS](./solutions/typescript/217-contains-duplicate.ts)                                                     |
 | [260. Single Number III](https://leetcode.com/problems/single-number-iii/)                                                      | ⭐⭐         | [JS](./solutions/javascript/260-single-number-iii.js) - [TS](./solutions/typescript/260-single-number-iii.ts)                                                       |
 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)                    | ⭐          | [JS](./solutions/javascript/387-first-unique-character-in-a-string.js) - [TS](./solutions/typescript/387-first-unique-character-in-a-string.ts)                     |
+| [383. Ransom Note](https://leetcode.com/problems/ransom-note/)                                                                  | ⭐          | [JS](./solutions/javascript/383-ransom-note.js) - [TS](./solutions/typescript/383-ransom-note.ts)                                                                   |
 | [1160. Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | ⭐          | [JS](./solutions/javascript/1160-find-words-that-can-be-formed-by-characters.js) - [TS](./solutions/typescript/1160-find-words-that-can-be-formed-by-characters.ts) |
 
 ### Database
