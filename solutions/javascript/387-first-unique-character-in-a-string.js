@@ -1,7 +1,8 @@
 /**
- * https://leetcode.com/problems/first-unique-character-in-a-string/
  * @param {string} s
  * @return {number}
+ *
+ * @link https://leetcode.com/problems/first-unique-character-in-a-string/
  */
 
 var firstUniqChar = function (s) {
