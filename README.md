@@ -75,6 +75,7 @@
 | [2432. The Employee That Worked on the Longest Task](https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task/)               | ⭐          | [JS](./solutions/javascript/2432-the-employee-that-worked-on-the-longest-task.js) - [TS](./solutions/typescript/2432-the-employee-that-worked-on-the-longest-task.ts)               |
 | [2460. Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/)                                               | ⭐          | [JS](./solutions/javascript/2460-apply-operations-to-an-array.js) - [TS](./solutions/typescript/2460-apply-operations-to-an-array.ts)                                               |
 | [3065. Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/)           | ⭐          | [JS](./solutions/javascript/3065-minimum-operations-to-exceed-threshold-value-i.js) - [TS](./solutions/typescript/3065-minimum-operations-to-exceed-threshold-value-i.ts)           |
+| [3289. The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/)                               | ⭐          | [JS](./solutions/javascript/3289-the-two-sneaky-numbers-of-digitville.js) - [TS](./solutions/typescript/3289-the-two-sneaky-numbers-of-digitville.ts)                               |
 
 ### Database
 
