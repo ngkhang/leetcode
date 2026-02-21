@@ -2,7 +2,7 @@
 
 # ✨ Leetcode ✨
 
-*This repo is a collection of solutions to problems in LeetCode. I will upload solutions for some problems regularly.*
+_This repo is a collection of solutions to problems in LeetCode. I will upload solutions for some problems regularly._
 
 ![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -22,6 +22,10 @@
   - [About Me](#about-me)
 
 ## Solutions
+
+| Problem                                                         | Difficulty | Solutions                                                                           |
+| --------------------------------------------------------------- | ---------- | ----------------------------------------------------------------------------------- |
+| [190. Reverse Bits](https://leetcode.com/problems/reverse-bits) | ⭐          | [TS](./solutions/ts/190-reverse-bits.ts) - [JS](./solutions/js/190-reverse-bits.js) |
 
 ## References
 
