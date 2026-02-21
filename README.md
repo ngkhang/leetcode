@@ -13,13 +13,17 @@ _This repo is a collection of solutions to problems in LeetCode. I will upload s
 - [✨ Leetcode ✨](#-leetcode-)
   - [Table of Contents](#table-of-contents)
   - [Solutions](#solutions)
+    - [JavaScript, TypeScript](#javascript-typescript)
   - [References](#references)
   - [About Me](#about-me)
 
 ## Solutions
 
-| Problem | Difficulty | Solutions |
-| ------- | ---------- | --------- |
+### JavaScript, TypeScript
+
+| Problem                                              | Difficulty | Solutions                                                 |
+| ---------------------------------------------------- | :--------: | --------------------------------------------------------- |
+| [1. Two Sum](https://leetcode.com/problems/two-sum/) |     *      | [TS](./src/ts/1-two-sum.ts) / [JS](./src/js/1-two-sum.js) |
 
 ## References
 
