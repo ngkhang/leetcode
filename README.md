@@ -23,11 +23,12 @@ _This repo is a collection of solutions to problems in LeetCode. I will upload s
 
 ## Solutions
 
-| Problem                                                                  | Difficulty | Solutions                                                                                   |
-| ------------------------------------------------------------------------ | ---------- | ------------------------------------------------------------------------------------------- |
-| [190. Reverse Bits](https://leetcode.com/problems/reverse-bits)          | ⭐          | [TS](./solutions/ts/190-reverse-bits.ts) - [JS](./solutions/js/190-reverse-bits.js)         |
-| [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | ⭐          | [TS](./solutions/ts/191-number-of-1-bits.ts) - [JS](./solutions/js/191-number-of-1-bits.js) |
-| [338. Counting Bits](https://leetcode.com/problems/counting-bits/)       | ⭐          | [TS](./solutions/ts/338-counting-bits.ts) - [JS](./solutions/js/338-counting-bits.js)       |
+| Problem                                                                                                       | Difficulty | Solutions                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | ⭐          | [TS](./solutions/ts/26-remove-duplicates-from-sorted-array.ts) - [JS](./solutions/js/26-remove-duplicates-from-sorted-array.js) |
+| [190. Reverse Bits](https://leetcode.com/problems/reverse-bits)                                               | ⭐          | [TS](./solutions/ts/190-reverse-bits.ts) - [JS](./solutions/js/190-reverse-bits.js)                                             |
+| [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                      | ⭐          | [TS](./solutions/ts/191-number-of-1-bits.ts) - [JS](./solutions/js/191-number-of-1-bits.js)                                     |
+| [338. Counting Bits](https://leetcode.com/problems/counting-bits/)                                            | ⭐          | [TS](./solutions/ts/338-counting-bits.ts) - [JS](./solutions/js/338-counting-bits.js)                                           |
 
 ## References
 
