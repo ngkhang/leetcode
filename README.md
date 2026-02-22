@@ -31,6 +31,7 @@ _This repo is a collection of solutions to problems in LeetCode. I will upload s
 | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits)                                               | ⭐          | [TS](./solutions/ts/190-reverse-bits.ts) - [JS](./solutions/js/190-reverse-bits.js)                                             |
 | [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                      | ⭐          | [TS](./solutions/ts/191-number-of-1-bits.ts) - [JS](./solutions/js/191-number-of-1-bits.js)                                     |
 | [338. Counting Bits](https://leetcode.com/problems/counting-bits/)                                            | ⭐          | [TS](./solutions/ts/338-counting-bits.ts) - [JS](./solutions/js/338-counting-bits.js)                                           |
+| [868. Binary Gap](https://leetcode.com/problems/binary-gap/)                                                  | ⭐          | [TS](./solutions/ts/868-binary-gap.ts) - [JS](./solutions/js/868-binary-gap.js)                                                 |
 
 ## References
 
