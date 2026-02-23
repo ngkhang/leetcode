@@ -21,10 +21,11 @@ _This repo is a collection of solutions to problems in LeetCode. I will upload s
 
 ### JavaScript, TypeScript
 
-| Problem                                                                        | Difficulty | Solutions                                                                             |
-| ------------------------------------------------------------------------------ | :--------: | ------------------------------------------------------------------------------------- |
-| [1. Two Sum](https://leetcode.com/problems/two-sum/)                           |     *      | [TS](./src/ts/1-two-sum.ts) / [JS](./src/js/1-two-sum.js)                             |
-| [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) |     *      | [TS](./src/ts/206-reverse-linked-list.ts) / [JS](./src/js/206-reverse-linked-list.js) |
+| Problem                                                                             | Difficulty | Solutions                                                                                 |
+| ----------------------------------------------------------------------------------- | :--------: | ----------------------------------------------------------------------------------------- |
+| [1. Two Sum](https://leetcode.com/problems/two-sum/)                                |     *      | [TS](./src/ts/1-two-sum.ts) / [JS](./src/js/1-two-sum.js)                                 |
+| [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) |     *      | [TS](./src/ts/21-merge-two-sorted-lists.ts) / [JS](./src/js/21-merge-two-sorted-lists.js) |
+| [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)      |     *      | [TS](./src/ts/206-reverse-linked-list.ts) / [JS](./src/js/206-reverse-linked-list.js)     |
 
 ## References
 
