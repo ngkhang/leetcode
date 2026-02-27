@@ -17,8 +17,6 @@ function reverseList(head: ListNode | null): ListNode | null {
     return reversedPoint;
 }
 
-export {};
-
 /**
  * Definition for singly-linked list.
  */
@@ -30,3 +28,5 @@ class ListNode {
         this.next = next === undefined ? null : next;
     }
 }
+
+export {};

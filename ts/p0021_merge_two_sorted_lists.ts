@@ -1,19 +1,6 @@
 /**
  * @link https://leetcode.com/problems/merge-two-sorted-lists/
  */
-
-/**
- * Definition for singly-linked list.
- */
-class ListNode {
-    val: number;
-    next: ListNode | null;
-    constructor(val?: number, next?: ListNode | null) {
-        this.val = val === undefined ? 0 : val;
-        this.next = next === undefined ? null : next;
-    }
-}
-
 function mergeTwoLists(list1: ListNode | null, list2: ListNode | null): ListNode | null {
     const listMerge = new ListNode(Number.MAX_SAFE_INTEGER);
 
@@ -34,6 +21,18 @@ function mergeTwoLists(list1: ListNode | null, list2: ListNode | null): ListNode
     curr.next = list1 === null ? list2 : list1;
 
     return listMerge.next;
+}
+
+/**
+ * Definition for singly-linked list.
+ */
+class ListNode {
+    val: number;
+    next: ListNode | null;
+    constructor(val?: number, next?: ListNode | null) {
+        this.val = val === undefined ? 0 : val;
+        this.next = next === undefined ? null : next;
+    }
 }
 
 export {};

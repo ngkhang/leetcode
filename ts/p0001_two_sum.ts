@@ -1,7 +1,6 @@
 /**
  * @link https://leetcode.com/problems/two-sum/
  */
-
 function twoSum(nums: number[], target: number): number[] {
     const mapNum = new Map<number, number>();
 

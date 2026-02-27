@@ -21,15 +21,15 @@ _This repo is a collection of solutions to problems in LeetCode. I will upload s
 
 ### JavaScript, TypeScript
 
-| Problem                                                                             | Difficulty | Solutions                                                                                 |
-| ----------------------------------------------------------------------------------- | :--------: | ----------------------------------------------------------------------------------------- |
-| [1. Two Sum](https://leetcode.com/problems/two-sum/)                                |     *      | [TS](./src/ts/1-two-sum.ts) / [JS](./src/js/1-two-sum.js)                                 |
-| [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)           |     *      | [TS](./src/ts/20-valid-parentheses.ts) / [JS](./src/js/20-valid-parentheses.js)           |
-| [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) |     *      | [TS](./src/ts/21-merge-two-sorted-lists.ts) / [JS](./src/js/21-merge-two-sorted-lists.js) |
-| [136. Single Number](https://leetcode.com/problems/single-number/)                  |     *      | [TS](./src/ts/136-single-number.ts) / [JS](./src/js/136-single-number.js)                 |
-| [202. Happy Number](https://leetcode.com/problems/happy-number/)                    |     *      | [TS](./src/ts/202-happy-number.ts) / [JS](./src/js/202-happy-number.js)                   |
-| [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)      |     *      | [TS](./src/ts/206-reverse-linked-list.ts) / [JS](./src/js/206-reverse-linked-list.js)     |
-| [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)        |     *      | [TS](./src/ts/217-contains-duplicate.ts) / [JS](./src/js/217-contains-duplicate.js)       |
+| Problem                                                                             | Difficulty | TypeScript                                       | JavaScript                                       |
+| ----------------------------------------------------------------------------------- | :--------: | ------------------------------------------------ | ------------------------------------------------ |
+| [1. Two Sum](https://leetcode.com/problems/two-sum/)                                |     *      | [Solution](./ts/p0001_two_sum.ts)                | [Solution](./js/p0001_two_sum.js)                |
+| [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)           |     *      | [Solution](./ts/p0020_valid_parentheses.ts)      | [Solution](./js/p0020_valid_parentheses.js)      |
+| [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) |     *      | [Solution](./ts/p0021_merge_two_sorted_lists.ts) | [Solution](./js/p0021_merge_two_sorted_lists.js) |
+| [136. Single Number](https://leetcode.com/problems/single-number/)                  |     *      | [Solution](./ts/p0136_single_number.ts)          | [Solution](./js/p0136_single_number.js)          |
+| [202. Happy Number](https://leetcode.com/problems/happy-number/)                    |     *      | [Solution](./ts/p0202_happy_number.ts)           | [Solution](./js/p0202_happy_number.js)           |
+| [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)      |     *      | [Solution](./ts/p0206_reverse_linked_list.ts)    | [Solution](./js/p0206_reverse_linked_list.js)    |
+| [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)        |     *      | [Solution](./ts/p0217_contains_duplicate.ts)     | [Solution](./js/p0217_contains_duplicate.js)     |
 
 ## References
 
