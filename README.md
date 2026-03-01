@@ -30,6 +30,7 @@ _This repo is a collection of solutions to problems in LeetCode. I will upload s
 | [202. Happy Number](https://leetcode.com/problems/happy-number/)                    |     *      | [Solution](./ts/p0202_happy_number.ts)           | [Solution](./js/p0202_happy_number.js)           |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)      |     *      | [Solution](./ts/p0206_reverse_linked_list.ts)    | [Solution](./js/p0206_reverse_linked_list.js)    |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)        |     *      | [Solution](./ts/p0217_contains_duplicate.ts)     | [Solution](./js/p0217_contains_duplicate.js)     |
+| [344. Reverse String](https://leetcode.com/problems/reverse-string/)                |     *      | [Solution](./ts/p0344_reverse_string.ts)         | [Solution](./js/p0344_reverse_string.js)         |
 | [709. To Lower Case](https://leetcode.com/problems/to-lower-case/)                  |     *      | [Solution](./ts/p0709_to_lower_case.ts)          | [Solution](./js/p0709_to_lower_case.js)          |
 | [2129. Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/)   |     *      | [Solution](./ts/p2129_capitalize_the_title.ts)   | [Solution](./js/p2129_capitalize_the_title.js)   |
 
