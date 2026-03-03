@@ -27,6 +27,7 @@ _This repo is a collection of solutions to problems in LeetCode. I will upload s
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)           |     *      | [Solution](./ts/p0020_valid_parentheses.ts)      | [Solution](./js/p0020_valid_parentheses.js)      |
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) |     *      | [Solution](./ts/p0021_merge_two_sorted_lists.ts) | [Solution](./js/p0021_merge_two_sorted_lists.js) |
 | [136. Single Number](https://leetcode.com/problems/single-number/)                  |     *      | [Solution](./ts/p0136_single_number.ts)          | [Solution](./js/p0136_single_number.js)          |
+| [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)            |     *      | [Solution](./ts/p0125_valid_palindrome.ts)       | [Solution](./js/p0125_valid_palindrome.js)       |
 | [155. Min Stack](https://leetcode.com/problems/min-stack/)                          |     **     | [Solution](./ts/p0155_min_stack.ts)              | [Solution](./js/p0155_min_stack.js)              |
 | [202. Happy Number](https://leetcode.com/problems/happy-number/)                    |     *      | [Solution](./ts/p0202_happy_number.ts)           | [Solution](./js/p0202_happy_number.js)           |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)      |     *      | [Solution](./ts/p0206_reverse_linked_list.ts)    | [Solution](./js/p0206_reverse_linked_list.js)    |
