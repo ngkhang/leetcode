@@ -59,6 +59,7 @@ _This repo is a collection of solutions to problems in LeetCode. I will upload s
 | [2085. Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/)         |     *      | [Solution](./ts/p2085_count_common_words_with_one_occurrence.ts)     | [Solution](./js/p2085_count_common_words_with_one_occurrence.js)     |
 | [2108. Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) |     *      | [Solution](./ts/p2108_find_first_palindromic_string_in_the_array.ts) | [Solution](./js/p2108_find_first_palindromic_string_in_the_array.js) |
 | [2129. Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/)                                             |     *      | [Solution](./ts/p2129_capitalize_the_title.ts)                       | [Solution](./js/p2129_capitalize_the_title.js)                       |
+| [2733. Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum/)                               |     *      | [Solution](./ts/p2733_neither_minimum_nor_maximum.ts)                | [Solution](./js/p2733_neither_minimum_nor_maximum.js)                |
 
 ## References
 
