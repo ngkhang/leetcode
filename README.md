@@ -14,6 +14,7 @@ _This repo is a collection of solutions to problems in LeetCode. I will upload s
   - [Table of Contents](#table-of-contents)
   - [Solutions](#solutions)
     - [JavaScript, TypeScript](#javascript-typescript)
+    - [Database](#database)
   - [References](#references)
   - [About Me](#about-me)
 
@@ -62,6 +63,12 @@ _This repo is a collection of solutions to problems in LeetCode. I will upload s
 | [2108. Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) |     *      | [Solution](./ts/p2108_find_first_palindromic_string_in_the_array.ts) | [Solution](./js/p2108_find_first_palindromic_string_in_the_array.js) |
 | [2129. Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/)                                             |     *      | [Solution](./ts/p2129_capitalize_the_title.ts)                       | [Solution](./js/p2129_capitalize_the_title.js)                       |
 | [2733. Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum/)                               |     *      | [Solution](./ts/p2733_neither_minimum_nor_maximum.ts)                | [Solution](./js/p2733_neither_minimum_nor_maximum.js)                |
+
+### Database
+
+| Problem                                                                      | Difficulty | SQL (MySQL)                                    |
+| ---------------------------------------------------------------------------- | :--------: | ---------------------------------------------- |
+| [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) |     *      | [Solution](./sql/p0175_combine_two_tables.sql) |
 
 ## References
 
