@@ -69,6 +69,7 @@ _This repo is a collection of solutions to problems in LeetCode. I will upload s
 | Problem                                                                      | Difficulty | SQL (MySQL)                                    |
 | ---------------------------------------------------------------------------- | :--------: | ---------------------------------------------- |
 | [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) |     *      | [Solution](./sql/p0175_combine_two_tables.sql) |
+| [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)     |     *      | [Solution](./sql/p0182_duplicate_emails.sql)   |
 
 ## References
 
