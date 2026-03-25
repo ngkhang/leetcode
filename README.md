@@ -11,12 +11,12 @@ _This repo is a collection of solutions to problems in LeetCode. I will upload s
 ## Table of Contents
 
 - [✨ Leetcode ✨](#-leetcode-)
-  - [Table of Contents](#table-of-contents)
-  - [Solutions](#solutions)
-    - [JavaScript, TypeScript](#javascript-typescript)
-    - [Database](#database)
-  - [References](#references)
-  - [About Me](#about-me)
+    - [Table of Contents](#table-of-contents)
+    - [Solutions](#solutions)
+        - [JavaScript, TypeScript](#javascript-typescript)
+        - [Database](#database)
+    - [References](#references)
+    - [About Me](#about-me)
 
 ## Solutions
 
@@ -30,6 +30,7 @@ _This repo is a collection of solutions to problems in LeetCode. I will upload s
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                               |     *      | [Solution](./ts/p0021_merge_two_sorted_lists.ts)                       | [Solution](./js/p0021_merge_two_sorted_lists.js)                       |
 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                     |     *      | [Solution](./ts/p0026_remove_duplicates_from_sorted_array.ts)          | [Solution](./js/p0026_remove_duplicates_from_sorted_array.js)          |
 | [27. Remove Element](https://leetcode.com/problems/remove-element/)                                                               |     *      | [Solution](./ts/p0027_remove_element.ts)                               | [Solution](./js/p0027_remove_element.js)                               |
+| [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                               |     *      | [Solution](./ts/p0035_search_insert_position.ts)                       | [Solution](./js/p0035_search_insert_position.js)                       |
 | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)                       |     *      | [Solution](./ts/p0083_remove_duplicates_from_sorted_list.ts)           | [Solution](./js/p0083_remove_duplicates_from_sorted_list.js)           |
 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                                       |     *      | [Solution](./ts/p0088_merge_sorted_array.ts)                           | [Solution](./js/p0088_merge_sorted_array.js)                           |
 | [136. Single Number](https://leetcode.com/problems/single-number/)                                                                |     *      | [Solution](./ts/p0136_single_number.ts)                                | [Solution](./js/p0136_single_number.js)                                |
