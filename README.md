@@ -11,12 +11,12 @@ _This repo is a collection of solutions to problems in LeetCode. I will upload s
 ## Table of Contents
 
 - [✨ Leetcode ✨](#-leetcode-)
-    - [Table of Contents](#table-of-contents)
-    - [Solutions](#solutions)
-        - [JavaScript, TypeScript](#javascript-typescript)
-        - [Database](#database)
-    - [References](#references)
-    - [About Me](#about-me)
+  - [Table of Contents](#table-of-contents)
+  - [Solutions](#solutions)
+    - [JavaScript, TypeScript](#javascript-typescript)
+    - [Database](#database)
+  - [References](#references)
+  - [About Me](#about-me)
 
 ## Solutions
 
@@ -24,6 +24,7 @@ _This repo is a collection of solutions to problems in LeetCode. I will upload s
 
 | Problem                                                                                                                               | Difficulty | TypeScript                                                               | JavaScript                                                               |
 | ------------------------------------------------------------------------------------------------------------------------------------- | :--------: | ------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
+| [1. Two Sum](https://leetcode.com/problems/two-sum/)                                                                                  |     *      | [Solution](./solutions/1-Two_Sum/1.ts)                                   | [Solution](./js/p0001_two_sum.js)                                        |
 | [1. Two Sum](https://leetcode.com/problems/two-sum/)                                                                                  |     *      | [Solution](./ts/p0001_two_sum.ts)                                        | [Solution](./js/p0001_two_sum.js)                                        |
 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                                     |     *      | [Solution](./ts/p0014_longest_common_prefix.ts)                          | [Solution](./js/p0014_longest_common_prefix.js)                          |
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                             |     *      | [Solution](./ts/p0020_valid_parentheses.ts)                              | [Solution](./js/p0020_valid_parentheses.js)                              |
@@ -71,6 +72,7 @@ _This repo is a collection of solutions to problems in LeetCode. I will upload s
 | [2144. Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/)     |     *      | [Solution](./ts/p2144_minimum_cost_of_buying_candies_with_discount.ts)   | [Solution](./js/p2144_minimum_cost_of_buying_candies_with_discount.js)   |
 | [2733. Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum/)                                       |     *      | [Solution](./ts/p2733_neither_minimum_nor_maximum.ts)                    | [Solution](./js/p2733_neither_minimum_nor_maximum.js)                    |
 | [3065. Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/) |     *      | [Solution](./ts/p3065_minimum_operations_to_exceed_threshold_value_i.ts) | [Solution](./js/p3065_minimum_operations_to_exceed_threshold_value_i.js) |
+| [3658. GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/)                                             |     *      | [Solution](./ts/p3658_gcd_of_odd_and_even_sums.ts)                       | [Solution](./js/p3658_gcd_of_odd_and_even_sums.js)                       |
 
 ### Database
 
