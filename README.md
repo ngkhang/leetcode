@@ -58,6 +58,7 @@ _This repo is a collection of solutions to problems in LeetCode. I will upload s
 | [2144. Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | ⭐          | [TS](./solutions/ts/2144-minimum-cost-of-buying-candies-with-discount.ts) - [JS](./solutions/js/2144-minimum-cost-of-buying-candies-with-discount.js) |
 | [2185. Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/)                     | ⭐          | [TS](./solutions/ts/2185-counting-words-with-a-given-prefix.ts) - [JS](./solutions/js/2185-counting-words-with-a-given-prefix.js)                     |
 | [2733. Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum/)                                   | ⭐          | [TS](./solutions/ts/2733-neither-minimum-nor-maximum.ts) - [JS](./solutions/js/2733-neither-minimum-nor-maximum.js)                                   |
+| [3158. Find the XOR of Numbers Which Appear Twice](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice/)     | ⭐          | [TS](./solutions/ts/3158-find-the-xor-of-numbers-which-appear-twice.ts) - [JS](./solutions/js/3158-find-the-xor-of-numbers-which-appear-twice.js)     |
 
 ## References
 
